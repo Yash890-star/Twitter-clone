@@ -1,0 +1,67 @@
+html {
+    
+    background-color: #15202b;
+    background-image: url('./Screenshot\ \(528\).png');
+    background-repeat: no-repeat;
+    background-size: 760px 100vh;
+    font-family: Bree serif;
+    
+}
+
+.icon {
+    width: 44px;
+    height: auto;
+    position: absolute;
+    top: 22%;
+    left: 62%;
+    
+}
+
+.text {
+    font-size: 30px;
+    position: absolute;
+    color: #fff;
+    top: 33%;
+    left: 62%;
+    
+}
+.join {
+    font-size: 17px;
+    position: absolute;
+    color: #fff;
+    top: 51%;
+    left: 62%;
+}
+
+.real {
+    font-size: 17px;
+    position: absolute;
+    color: #fff;
+    top: 56%;
+    left: 62%;
+    text-decoration: none;
+    
+    
+}
+
+.real-one{
+    padding: 10px 160px;
+    border-radius: 200px;
+    border: 1px solid #1da1f2;
+    background-color: #1da1f2;
+    margin-bottom: 15px;
+    
+}
+
+.real-two{
+    border: 1px solid #1da1f2;
+    padding: 10px 160px;
+    border-radius: 200px;
+    
+    
+}
+
+.real a{
+    text-decoration: none;
+    color: #fff;
+}
